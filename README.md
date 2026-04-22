@@ -46,7 +46,7 @@ full white-paper series listed below.
 
 ### API reference
 
-- **Interactive:** [SwaggerHub — Nodots Backgammon API](https://app.swaggerhub.com/apis/nodotsadvisorygroup/nodots-backgammon-api/1.0.0)
+- **Interactive Swagger UI:** https://api.nodots.com/api-docs
 
 ---
 
